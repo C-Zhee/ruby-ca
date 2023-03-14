@@ -24,7 +24,7 @@ puts hey
 hey = 2**2   # 4
 puts hey
 
-hey = 20 % 3 # 2  
+hey = 20 % 3 # 2. This is because 20/3 has a remainder of 2
 puts hey
 
 puts "What's Up?"        # What's Up?
