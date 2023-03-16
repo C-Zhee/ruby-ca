@@ -2,7 +2,7 @@
 # If I want to include 
 
 
-lemonz = "Sheeesh"
+lemonz = "Sushi Sashimi Stingray Soup"
 puts lemonz.gsub(/[Ss]/, "th")
 
 # make an if-else statement with gsub method next!
