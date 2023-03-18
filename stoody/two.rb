@@ -61,8 +61,7 @@ end
 # Unless statement in Ruby
 fruits = ["Apple", "Orange", "Kiwi"]
 
-unless fruits.length == 2
+unless fruits.length == 4
     puts "3!"
-else 
-    puts "=/= 3!"
 end
+

@@ -11,15 +11,23 @@ finished.
 Started control flow part 2
 finished.
 
-3/15/23
+3/16/23
 Started looping part 1
 finished.
 
-3/16/23
+3/17/23
 Reviewed introduction to ruby
 
-3/17/23
+3/18/23
+Reviewed control flow in ruby
+finished.
+
 Started looping part 2
+finished.
+
+Reviewed looping in ruby
+finished.
+
 
 
 
