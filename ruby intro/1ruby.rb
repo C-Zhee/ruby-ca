@@ -113,3 +113,10 @@ Lemonz is my best friend
 She will forever be my bestie
 =end
 
+
+binding,pry
+
+
+
+
+

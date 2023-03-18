@@ -39,4 +39,3 @@ end
 for loominz in 1..5   # you would get 1,2,3,4,5
   puts loominz
 end
-
