@@ -26,12 +26,14 @@ Started looping part 2
 finished.
 
 3/19/23
-
 Reviewed looping in ruby
 finished.
 
 3/20/23
 Started arrays and hashes part 1
+finished
+
+<!-- Started arrays and hashes part 2 -->
 
 
 
