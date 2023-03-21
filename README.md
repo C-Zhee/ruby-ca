@@ -31,9 +31,15 @@ finished.
 
 3/20/23
 Started arrays and hashes part 1
-finished
+finished.
 
-<!-- Started arrays and hashes part 2 -->
+3/21/23
+Started arrays and hashes part 2
+finished.
+
+Reviewed arrays and hashes
+
+
 
 
 
