@@ -37,7 +37,10 @@ finished.
 Started arrays and hashes part 2
 finished.
 
+3/22/23
 Reviewed arrays and hashes
+
+Started blocks and sorting part 1
 
 
 
