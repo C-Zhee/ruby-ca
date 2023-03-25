@@ -42,6 +42,11 @@ Reviewed arrays and hashes
 
 Started blocks and sorting part 1
 
+3/23/23
+
+
+3/24/23
+
 
 
 
