@@ -41,11 +41,15 @@ finished.
 Reviewed arrays and hashes
 
 Started blocks and sorting part 1
+finished.
 
 3/23/23
 
+Startedd blocks and sorting part 2
+finished.
 
 3/24/23
+Reviewed blocks and hashes
 
 
 
