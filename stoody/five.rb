@@ -45,7 +45,7 @@ end
 
 # Ruby Block
 
-# 5.times do 
+# 5.times do              Both lines of codes do the same thing
 #     puts "♥"
 # end
 

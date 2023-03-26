@@ -51,6 +51,11 @@ finished.
 3/24/23
 Reviewed blocks and hashes
 
+3/25/23
+Started hashes and symbols part 1
+
+Started hashes and symbols part 2
+
 
 
 
