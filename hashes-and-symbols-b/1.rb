@@ -12,7 +12,7 @@ Alani: 9
 }
 
 movies.each { |movie,rating| puts rating > 9.5}
-puts choice = gets.chomp
+# puts choice = gets.chomp
 
 
 # The Case Statement
@@ -20,3 +20,23 @@ puts choice = gets.chomp
 # using case-when-else for the first time :]
 
 # Prompting: Redux!
+
+# lemonz = "Olivia"
+# puts lemonz.succ
+
+# Not My Type
+
+# Using .sym and .to_i
+
+# Update
+
+# adding an if-else statement
+
+# Display
+
+movies.each { |movie, rating| puts "#{movie}: #{rating}"}
+# movies.each { |movie, rating| puts "#{movie}": "#{rating}"}
+
+# Delete
+
+# Idk LOL
