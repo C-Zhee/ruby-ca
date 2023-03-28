@@ -57,14 +57,18 @@ finished.
 
 3/26/23
 Started hashes and symbols part 2
+finished.
 
 Reviewed hashes and symbols
 
 3/27/23
 Started refactoring part 1
+finished
 
 Started refactoring part 2
+finished.
 
+Reviewed refactoring
 
 
 
