@@ -77,7 +77,9 @@ finished.
 Reviewed block, procs, and lambdas
 
 Started object-oriented programming 1-a
+finished.
 
+Started object-oriented-programming-1-b
 
 
 

@@ -28,4 +28,29 @@ mushii = Person.new("Sarah")
 
 puts "Number of Person instances: #{Person.number_of_instances}"
 
+# Classes Are Serious Business
+# Inheritance symbol: <
+
+class NewTest
+    def message
+        puts "Hello!"
+    end
+end
+
+class Pizza < NewTest
+end
+
+cheese = Pizza.new
+cheese.message
+
+# Inheritance Syntax
+
+# I did it above :]
+
+# Override!
+
+# Creating a newe class that overrides the previous one :]
+
+
+
 
