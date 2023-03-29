@@ -71,6 +71,13 @@ Reviewed refactoring
 
 3/28/23
 Started blocks, procs, and lambdas
+finished.
+
+3/29/23
+Reviewed block, procs, and lambdas
+
+Started object-oriented programming 1-a
+
 
 
 
