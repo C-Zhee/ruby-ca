@@ -1,4 +1,4 @@
-# ruby-ca
+# ruby-codecademy
 
 3/13/23 started codecademy ruby course
 Introduction to ruby part 1 done.
@@ -44,8 +44,7 @@ Started blocks and sorting part 1
 finished.
 
 3/23/23
-
-Startedd blocks and sorting part 2
+Started blocks and sorting part 2
 finished.
 
 3/24/23
