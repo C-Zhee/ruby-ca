@@ -127,3 +127,4 @@ class Bank
 end
 
 checking_Bank = Bank.new("Olivia", 1000000)
+
